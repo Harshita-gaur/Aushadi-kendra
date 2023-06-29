@@ -10,6 +10,9 @@ A user can also get the information about the uses,benefits ,side-effects of any
 make a folder called Aushadi Kendra
 open cmd
 >>pip install virtualenv
+
 >>virtualenv pharmacy_site
+
 >>.\pharmacy_site\Scripts\activate
+
 >>pip install django
