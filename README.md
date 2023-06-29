@@ -20,3 +20,5 @@ open cmd
 >>django-admin startproject Aushadi_Kendra
 
 >>cd Aushadi_Kendra
+
+>>python manage.py runserver
