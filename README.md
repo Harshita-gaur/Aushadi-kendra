@@ -16,3 +16,7 @@ open cmd
 >>.\pharmacy_site\Scripts\activate
 
 >>pip install django
+
+>>django-admin startproject Aushadi_Kendra
+
+>>cd Aushadi_Kendra
